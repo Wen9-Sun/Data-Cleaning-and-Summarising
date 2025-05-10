@@ -1,0 +1,79 @@
+ISO3,Countries and areas,Income Group,Total,Rural (Residence),Urban (Residence),Poorest (Wealth quintile),Richest (Wealth quintile)
+DZA,Algeria,Upper middle income (UM),24%,9%,32%,1%,1%
+AGO,Angola,Lower middle income (LM),17%,2%,24%,0%,0%
+ARM,Armenia,Upper middle income (UM),81%,71%,88%,47%,47%
+BGD,Bangladesh,Lower middle income (LM),37%,33%,52%,9%,9%
+BRB,Barbados,High income (H),66%,61%,69%,10%,10%
+BEN,Benin,Low income (L),4%,1%,7%,0%,0%
+BOL,Bolivia,Lower middle income (LM),12%,4%,17%,19%,19%
+BIH,Bosnia and Herzegovina,Upper middle income (UM),59%,51%,76%,8%,8%
+BRA,Brazil,Upper middle income (UM),83%,51%,89%,6%,6%
+BGR,Bulgaria,Upper middle income (UM),76%,66%,81%,35%,35%
+BFA,Burkina Faso,Low income (L),1%,1%,4%,1%,1%
+CMR,Cameroon,Lower middle income (LM),5%,0%,10%,0%,0%
+CAF,Central African Republic,Low income (L),4%,1%,9%,0%,0%
+TCD,Chad,Low income (L),2%,1%,8%,0%,0%
+CHL,Chile,High income (H),86%,70%,89%,6%,6%
+CHN,China,Upper middle income (UM),57%,50%,91%,19%,19%
+COL,Colombia,Upper middle income (UM),36%,5%,48%,1%,1%
+CRI,Costa Rica,Upper middle income (UM),72%,61%,78%,46%,46%
+CIV,Ivory Coast,Lower middle income (LM),3%,1%,5%,0%,0%
+CUB,Cuba,Upper middle income (UM),4%,1%,6%,15%,15%
+COD,Democratic Republic of the Congo,Low income (L),1%,0%,2%,0%,0%
+DJI,Djibouti,Lower middle income (LM),6%,1%,11%,1%,1%
+DOM,Dominican Republic,Upper middle income (UM),24%,100%,29%,0%,0%
+EGY,Egypt,Lower middle income (LM),17%,9%,29%,6%,6%
+GMB,Gambia,Low income (L),65%,47%,75%,25%,25%
+GEO,Georgia,Upper middle income (UM),85%,72%,93%,51%,51%
+GHA,Ghana,Lower middle income (LM),17%,10%,26%,3%,3%
+GTM,Guatemala,Upper middle income (UM),9%,3%,18%,0%,0%
+GNB,Guinea-Bissau,Low income (L),2%,2%,4%,0%,0%
+HTI,Haiti,Low income (L),21%,11%,36%,0%,0%
+IND,India,Lower middle income (LM),9%,5%,17%,0%,0%
+IDN,Indonesia,Lower middle income (LM),19%,10%,26%,6%,6%
+IRQ,Iraq,Upper middle income (UM),49%,35%,56%,14%,14%
+JPN,Japan,High income (H),78%,83%,77%,6%,6%
+JOR,Jordan,Upper middle income (UM),38%,35%,38%,23%,23%
+KEN,Kenya,Lower middle income (LM),32%,28%,24%,19%,19%
+KIR,Kiribati,Lower middle income (LM),51%,33%,69%,14%,14%
+KGZ,Kyrgyzstan,Lower middle income (LM),74%,69%,83%,54%,54%
+LAO,Lao People's Democratic Republic,Lower middle income (LM),2%,1%,4%,0%,0%
+LSO,Lesotho,Lower middle income (LM),32%,22%,52%,6%,6%
+MDG,Madagascar,Low income (L),11%,6%,27%,0%,0%
+MDV,Maldives,Upper middle income (UM),70%,69%,72%,50%,50%
+MLI,Mali,Low income (L),5%,3%,14%,0%,0%
+MRT,Mauritania,Lower middle income (LM),3%,1%,6%,0%,0%
+MEX,Mexico,Upper middle income (UM),41%,11%,52%,19%,19%
+MNG,Mongolia,Lower middle income (LM),37%,13%,49%,2%,2%
+MNE,Montenegro,Upper middle income (UM),82%,74%,86%,49%,49%
+MAR,Morocco,Lower middle income (LM),18%,12%,23%,19%,19%
+NAM,Namibia,Upper middle income (UM),7%,1%,15%,0%,0%
+NPL,Nepal,Low income (L),47%,32%,55%,16%,16%
+PAK,Pakistan,Lower middle income (LM),9%,4%,19%,0%,0%
+PAN,Panama,High income (H),31%,10%,44%,4%,4%
+RUS,Russian Federation,Upper middle income (UM),89%,79%,94%,6%,6%
+LCA,Saint Lucia,Upper middle income (UM),48%,48%,44%,12%,12%
+STP,Sao Tome and Principe,Lower middle income (LM),44%,37%,48%,20%,20%
+SEN,Senegal,Lower middle income (LM),5%,2%,10%,1%,1%
+SRB,Serbia,Upper middle income (UM),94%,91%,97%,6%,6%
+SLE,Sierra Leone,Low income (L),13%,4%,25%,0%,0%
+SSD,South Sudan,Low income (L),0%,0%,1%,0%,0%
+LKA,Sri Lanka,Upper middle income (UM),70%,67%,86%,6%,6%
+SDN,Sudan,Lower middle income (LM),3%,1%,9%,0%,0%
+SUR,Suriname,Upper middle income (UM),50%,37%,57%,22%,22%
+TJK,Tajikistan,Low income (L),24%,20%,38%,6%,6%
+THA,Thailand,Upper middle income (UM),71%,67%,78%,47%,47%
+MKD,North Macedonia,Upper middle income (UM),92%,90%,93%,6%,6%
+TGO,Togo,Low income (L),23%,7%,49%,0%,0%
+TON,Tonga,Upper middle income (UM),91%,90%,94%,6%,6%
+TTO,Trinidad and Tobago,High income (H),44%,34%,52%,3%,3%
+TUN,Tunisia,Lower middle income (LM),39%,22%,47%,13%,13%
+TUR,Turkey,Upper middle income (UM),36%,14%,43%,2%,2%
+TUR,Turkey,Upper middle income (UM),36%,14%,43%,2%,2%
+TUR,Turkey,Upper middle income (UM),36%,14%,43%,2%,2%
+TKM,Turkmenistan,Upper middle income (UM),46%,37%,58%,32%,32%
+UGA,Uganda,Low income (L),0%,0%,2%,0%,0%
+UKR,Ukraine,Lower middle income (LM),71%,28%,71%,19%,19%
+UZB,Uzbekistan,Lower middle income (LM),19%,16%,29%,1%,1%
+ZMB,Zambia,Lower middle income (LM),6%,2%,13%,0%,0%
+ZWE,Zimbabwe,Lower middle income (LM),26%,18%,49%,4%,4%
